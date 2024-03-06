@@ -25,10 +25,55 @@ header nav ul li{
     padding-bottom: 2px;
     /* text-decoration: underline; */
 }
+footer{
+    border: 1px solid red;
+    background-color: blue;
+    padding-left: 800px;
+}
 #granthams{
     margin-top: 25px;
     margin-left: 25px;
 }
 #paint{
     float: right;
+}
+#primeraseccion article{
+    display: inline-block;
+    vertical-align: top;
+}
+#segundaseccion article{
+    /* border: 1px solid red; */
+    /* padding-right: 140px; */
+    margin-right: 140px;
+    text-align: right;
+}
+#terceraseccion article{
+    display: inline-block;
+    vertical-align: top;
+    width: 23%;
+}
+#terceraseccion article img{
+    vertical-align: middle;
+}
+#secc03art04{
+    padding-top: 60px;
+}
+#secc03art04{
+   
+}
+
+.colorazul{
+    color:blue;
+}
+.colorrosa{
+    color:rgb(217, 71, 95);
+}
+.colorverde{
+    color:rgb(79, 194, 79);
+}
+.letramediana{
+    font-size: 2em;
+}
+.nito{
+    font-weight: bold;
 }
