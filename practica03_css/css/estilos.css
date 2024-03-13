@@ -61,6 +61,16 @@ section,footer{
 section img{
     width: 150px;
 }
+footer article{
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px; /*pone margen interno a la caja arriba,abajo,derecha e izquierda*/
+    vertical-align: top;
+    width: 31.1%;
+}
+footer img{
+    width: 300px;
+}
 .letra-azul{
     color:var(--color-azul);
 }
@@ -75,4 +85,8 @@ section img{
 }
 .tam-menu-lateral{
     font-size: 1.1em;
+}
+.read-more{
+    /*border: solid red;*/
+    margin-left: 230px;
 }
