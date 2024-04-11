@@ -1,0 +1,130 @@
+body {
+    background: linear-gradient(to bottom, #1f2937 57%, white 48%);
+    /** border: 1px solid red; **/
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0 auto;
+    max-width: 1024px;
+}
+
+nav {
+    color: white;
+    padding: 20px;
+}
+
+nav span {
+    font-size: 1.4em;
+}
+
+nav ul {
+    float: right;
+}
+
+nav ul li,
+img {
+    display: inline-block;
+    margin: 0 5px 0 5px;
+    vertical-align: top;
+}
+
+#section01 {
+    text-align: center;
+}
+
+#section01 article {
+    margin-top: 50px;
+}
+
+#section01 article span {
+    font-size: 2em;
+    color: white;
+}
+
+#section01 article p {
+    color: silver;
+    padding: 0 100px 0 100px;
+}
+
+#section01 article button {
+    border: none;
+    border-radius: 55px;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+    height: 40px;
+    width: 120px;
+    margin: 10px 5px 0 5px;
+
+}
+
+#section01 article img {
+    border: 5px solid white;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px rgba(33, 34, 34, 0.3);
+}
+
+#art-primero {
+    text-align: center;
+    padding: 50px 0 20px 0;
+}
+
+#art-primero span {
+    font-size: 1.7em;
+}
+
+#art-primero p {
+    color: #4c5563;
+}
+
+#art-abajo article {
+    display: inline-block;
+    text-align: center;
+    padding: 0 10px 0 10px;
+    width: 30%;
+}
+
+#art-abajo article span {
+    font-size: 1.2em;
+}
+
+#art-abajo article p {
+    text-align: left;
+    color: #4c5563;
+}
+
+#art-abajo article img {
+    width: 80px;
+}
+
+.menu{
+    font-size: 0.8em;
+}
+
+.letra-arriba{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.letra-abajo{
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.muy-negritas{
+    font-weight: 900;
+}
+
+.negritas{
+    font-weight: bold;
+}
+
+.boton-azul {
+    background-color: #2253d5;
+}
+
+.boton-gris {
+    background-color: #384151;
+}
+
+#img-SignIn {
+    margin: -9px 5px 0 -15px;
+    padding-left: 10px;
+}
